@@ -1,6 +1,6 @@
 services:
-  - type: web
-    name: GURU-BOT
+  - type: web service 
+    name: CHRIST-MD-V7 
     env: docker
     region: Frankfurt
     plan: free
