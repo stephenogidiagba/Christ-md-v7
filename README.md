@@ -1,4 +1,4 @@
-# SUHAIL-X (V2)
+# CHRIST-MD-V7
 <p align="center">
   <a href="https://youtube.com/c/SuhailTechInfo">
     <img alt="Suhail docs" height="300" src="./lib/assets/pk.jpg"  old_src= "https://telegra.ph/file/9dcef2b49909742db8dbd.jpg">
